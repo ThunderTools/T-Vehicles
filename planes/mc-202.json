@@ -1,0 +1,382 @@
+[
+  {
+    "Type": 1,
+    "Name": "valid",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 0,
+    "Name": "type",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "speed",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "pedals",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "pedals1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "pedals2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "pedals3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "pedals4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "stick_elevator",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "stick_ailerons",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "vario",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "altitude_hour",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "altitude_min",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "aviahorizon_roll",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "aviahorizon_pitch",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "bank",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "turn",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "compass",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "clock_hour",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "clock_min",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "clock_sec",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "fuel",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "gears",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "gears_lamp",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "flaps",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "trimmer",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "weapon1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "prop_pitch",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter6",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter7",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "ammo_counter8",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator_lever",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "oil_radiator_lever",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "blister1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "blister2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "blister3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 1,
+    "Name": "valid",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "aileron, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "elevator, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "rudder, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "flaps, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "gear, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "TAS, km/h",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "IAS, km/h",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "M",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "AoA, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "AoS, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "Ny",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "Vy, m/s",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "Wx, deg/s",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 1",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "power 1, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 1",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 1, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 1, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 1, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "pitch 1, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 1, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 1, %",
+    "InterfaceName": "state"
+  }
+]
