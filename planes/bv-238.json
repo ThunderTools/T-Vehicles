@@ -1,0 +1,687 @@
+[
+  {
+    "Type": 1,
+    "Name": "valid",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 0,
+    "Name": "type",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "speed",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "vario",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "altitude_hour",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "altitude_min",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "aviahorizon_roll",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "aviahorizon_pitch",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "bank",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "bank1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "turn",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "turn1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "compass",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold_pressure5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "rpm5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_pressure5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "oil_temperature5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "water_temperature5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 2,
+    "Name": "fuel",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure1",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure2",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure3",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure4",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "fuel_pressure5",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 3,
+    "Name": "gears_lamp",
+    "InterfaceName": "indicators"
+  },
+  {
+    "Type": 1,
+    "Name": "valid",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "aileron, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "elevator, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "rudder, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "flaps, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "gear, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "TAS, km/h",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "IAS, km/h",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "M",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "AoA, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "AoS, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "Ny",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "Vy, m/s",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "Wx, deg/s",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 1",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "power 1, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 1",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 1, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 1, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 1, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "pitch 1, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 1, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 1, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 2, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 2, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 2, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 2",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "power 2, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 2",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 2, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 2, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 2, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "pitch 2, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 2, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 2, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 3, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 3, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 3, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 3",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "power 3, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 3",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 3, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 3, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 3, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "pitch 3, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 3, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 3, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 4, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 4, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 4, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 4",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "power 4, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 4",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 4, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 4, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 4, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "pitch 4, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 4, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 4, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 5, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 5, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 5, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 5",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "power 5, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 5",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 5, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 5, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 5, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "pitch 5, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 5, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 5, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "throttle 6, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM throttle 6, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "radiator 6, %",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "magneto 6",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "power 6, hp",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "RPM 6",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 2,
+    "Name": "manifold pressure 6, atm",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "water temp 6, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "oil temp 6, C",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "pitch 6, deg",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "thrust 6, kgs",
+    "InterfaceName": "state"
+  },
+  {
+    "Type": 3,
+    "Name": "efficiency 6, %",
+    "InterfaceName": "state"
+  }
+]
